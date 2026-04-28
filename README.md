@@ -25,6 +25,8 @@ This project is a real-time stock monitoring application built using C#. It uses
 ## Video Demo
 (Link here)
 
+## Slides
+<img width="1302" height="740" alt="PDF File of slides" src="" />
 
 ## Team Contributions
 - Backend Development:
