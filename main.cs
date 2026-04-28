@@ -60,7 +60,6 @@ namespace StockPulse
 
             while (true)
             {
-                Console.Clear();
                 Console.WriteLine("====================================");
                 Console.WriteLine(" Team StockPulse Stock Monitor");
                 Console.WriteLine("====================================");
