@@ -19,8 +19,9 @@ This project is a real-time stock monitoring application built using C#. It uses
 1. 
    I used onlineGDB, and all I have to do is press the "Run” button.
 
-## Demo Video
-(Add your link here)
+## Output
+<img width="1302" height="740" alt="Screenshot 2026-04-28 at 12 58 36 PM" src="https://github.com/user-attachments/assets/cb5c2ab6-601c-4b15-9acb-89deb08a3e64" />
+
 
 ## Team Contributions
 - Backend Development:
