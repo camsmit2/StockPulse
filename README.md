@@ -16,8 +16,8 @@ This project is a real-time stock monitoring application built using C#. It uses
 - LINQ
 
 ## How to Run
-1. Run:
-   I used onlineGDB and all I have to do is press "Run" button.
+1. 
+   I used onlineGDB, and all I have to do is press the "Run” button.
 
 ## Demo Video
 (Add your link here)
