@@ -26,7 +26,7 @@ This project is a real-time stock monitoring application built using C#. It uses
 (Link here)
 
 ## Slides
-<img width="1302" height="740" alt="PDF File of slides" src="" />
+<img width="1302" height="740" alt="PDF File of slides" src="StockPulseFinalPres.pdf" />
 
 ## Team Contributions
 - Backend Development:
