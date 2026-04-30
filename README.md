@@ -19,7 +19,10 @@ This project is a real-time stock monitoring application built using C#. It uses
 
 ## How to Run
 1. 
-   I used onlineGDB, and all I have to do is press the "Run” button.
+   run main.cs with dotnet
+   hit any key to refresh and load new data
+   use Q to end program
+   
 
 ## Output
 <img width="1302" height="740" alt="Screenshot 2026-04-28 at 12 58 36 PM" src="https://github.com/user-attachments/assets/cb5c2ab6-601c-4b15-9acb-89deb08a3e64" />
@@ -31,6 +34,6 @@ https://www.youtube.com/watch?v=QlH0rPFYRFU
 <img width="1302" height="740" alt="PDF File of slides" src="StockPulseFinalPres.pdf" />
 
 ## Team Contributions
-- Backend Development:
-- Testing:
-- Documentation:
+- Backend Development: Cameron Smith & Jayden Williams
+- Testing: Every member of the group ran individual test on the code to ensure it all works even on multiple and diffrent systems.
+- Documentation: We all worked on documentation and each part we hand. 
