@@ -25,7 +25,7 @@ This project is a real-time stock monitoring application built using C#. It uses
 <img width="1302" height="740" alt="Screenshot 2026-04-28 at 12 58 36 PM" src="https://github.com/user-attachments/assets/cb5c2ab6-601c-4b15-9acb-89deb08a3e64" />
 
 ## Video Demo
-(Link here)
+https://www.youtube.com/watch?v=QlH0rPFYRFU
 
 ## Slides
 <img width="1302" height="740" alt="PDF File of slides" src="StockPulseFinalPres.pdf" />
