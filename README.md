@@ -8,6 +8,8 @@ This project is a real-time stock monitoring application built using C#. It uses
 - Parallel data fetching
 - Sorting and filtering using LINQ
 - Top gainers and losers display
+- Average Price
+- Stocks Gaining
 
 ## Technologies
 - C#
